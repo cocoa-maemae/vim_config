@@ -1,5 +1,3 @@
-# my-.vimrc
-
 Usage
 
 OS: Debian, Ubuntu, REHL, CentOS or other linux distributions
