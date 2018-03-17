@@ -1,3 +1,0 @@
-" import configuration files
-runtime! .vim/conf.d/init/*.vim
-runtime! .vim/conf.d/plugins/*.vim
