@@ -6,14 +6,14 @@ Available on any Linux distributions, like Debian, Ubuntu, CentOS, REL, or etc.
 
 # Install
 ## no plugin vim configuration
-git clone https://github.com/cocoamaemae/vim-config ~/
+git clone https://github.com/cocoamaemae/vim-config ~/vim-config
 
 ln -s ~/vim-config/.vimrc-noplugin ~/.vimrc
 
 ln -s ~/vim-config/.vim ~/.vim
 
 ## vim configuration with plugins
-git clone https://github.com/cocoamaemae/vim-config ~/
+git clone https://github.com/cocoamaemae/vim-config ~/vim-config
 
 ln -s ~/vim-config/.vimrc-plugin ~/.vimrc
 
