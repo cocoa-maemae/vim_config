@@ -27,9 +27,6 @@ call dein#save_state()
 filetype plugin indent on
 syntax enable
 
-" auto save
-let g:auto_save = 1
-
 if dein#check_install()
   call dein#install()
 endif
