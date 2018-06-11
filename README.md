@@ -2,7 +2,8 @@
 Arrangement 2 types of vim configurations with no plugin and using plugins.
 
 # Requirements
-Available on any Linux distributions, like Debian, Ubuntu, CentOS, REL, or etc.
+* Available on any Linux distributions, like Debian, Ubuntu, CentOS, REL, or etc.
+* Vim 8.0 or above or NeoVim.
 
 # Install
 ## no plugin vim configuration
