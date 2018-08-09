@@ -7,15 +7,15 @@ Arrangement 2 types of vim configurations with no plugin and using plugins.
 
 # Install
 ## no plugin vim configuration
-git clone https://github.com/cocoa-maemae/vim-config ~/vim-config
+git clone https://github.com/cocoa-maemae/vim_config ~/vim_config
 
-ln -s ~/vim-config/.vimrc-noplugin ~/.vimrc
+ln -s ~/vim_config/.vimrc-noplugin ~/.vimrc
 
-ln -s ~/vim-config/.vim ~/.vim
+ln -s ~/vim_config/.vim ~/.vim
 
 ## vim configuration with plugins
-git clone https://github.com/cocoa-maemae/vim-config ~/vim-config
+git clone https://github.com/cocoa-maemae/vim_config ~/vim_config
 
-ln -s ~/vim-config/.vimrc-plugin ~/.vimrc
+ln -s ~/vim_config/.vimrc-plugin ~/.vimrc
 
-ln -s ~/vim-config/.vim ~/.vim
+ln -s ~/vim_config/.vim ~/.vim
