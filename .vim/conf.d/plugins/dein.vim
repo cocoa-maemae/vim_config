@@ -20,6 +20,8 @@ call dein#begin(s:dein_path)
 call dein#add('tpope/vim-fugitive')
 call dein#add('vim-scripts/vim-auto-save')
 call dein#add('vim-scripts/grep.vim')
+call dein#add('hail2u/vim-css3-syntax')
+call dein#add('AtsushiM/sass-compile.vim')
 call dein#end()
 " You can add more plug-ins
 call dein#save_state()
