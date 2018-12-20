@@ -9,13 +9,14 @@ Arrangement 2 types of vim configurations with no plugin and using plugins.
 ## no plugin vim configuration
 git clone https://github.com/cocoa-maemae/vim_config ~/vim_config
 
-ln -s ~/vim_config/.vimrc-noplugin ~/.vimrc
-
-ln -s ~/vim_config/.vim ~/.vim
+### for vim configuration
+ln -s ~/vim_config/.vimrc-noplugin ~/.vimrc && ln -s ~/vim_config/.vim ~/.vim
 
 ## vim configuration with plugins
 git clone https://github.com/cocoa-maemae/vim_config ~/vim_config
 
+### for vim configuration
 ln -s ~/vim_config/.vimrc-plugin ~/.vimrc && ln -s ~/vim_config/.vim ~/.vim
 
+### for neovim configuration
 mkdir ~/.config && ln -s ~/.vim ~/.config/nvim && ln -s ~/.vimrc ~/.config/nvim/init.vim
