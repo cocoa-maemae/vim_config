@@ -1,5 +1,9 @@
 " not create .swp
 set noswapfile
+
+" load file if changed in exterior
+set autoread
+
 :set paste
 
 set fileformats=unix,dos,mac
